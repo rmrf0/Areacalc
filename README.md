@@ -1,6 +1,6 @@
 # Areacalc
-使用Qt6.8.1开发
-
+作者:rmrf0  
+使用Qt6.8.1开发  
 IDE:Qt Creator 15.0.0
 ## 兼容性
 ### Windows
