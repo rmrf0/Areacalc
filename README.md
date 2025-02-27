@@ -10,8 +10,9 @@ IDE:Qt Creator 15.0.0
 | Windows 10 64位 | 能 |
 | Windows 10 32位 | 不能 |
 | Windows 7 64位 | 能 |
-| Windows 7 32位 | 不能 |
-
+| Windows 7 32位 | 不能 |  
+ 
+_Windows 8.x , Windows xp , Windows 98 ,Windows 95 和 Windows server没有测试，不知道能不能运行_
 ## 功能如下：
 - 1.圆环面积计算
 - 2.三角形面积计算(已知三边的边长)
@@ -19,6 +20,7 @@ IDE:Qt Creator 15.0.0
 - 4.圆柱体积计算
 
 - _后续还会持续更新,如果有bug或建议请在上方点击Issues发送_
+- _或发送邮件到rmrf_@outlook.com_
 ## 下载：
 点击右边的Releases即可下载→→→→
 
