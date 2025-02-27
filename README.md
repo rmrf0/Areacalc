@@ -5,7 +5,6 @@ IDE:Qt Creator 15.0.0
 
 目前只支持windows，windows10测试可用，其他未知
 
-文件名和变量名可能会不标准,请大佬谅解
 ## 兼容性
 ### Windows
 |   系统名称   |   能否运行   |
