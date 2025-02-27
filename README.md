@@ -20,7 +20,8 @@ _Windows 8.x , Windows xp , Windows 98 ,Windows 95 和 Windows server没有测�
 - 4.圆柱体积计算
 
 - _后续还会持续更新,如果有bug或建议请在上方点击Issues发送_
-- _或发送邮件到rmrf_@outlook.com_
+  
+  _或发送邮件到 rmrf_@outlook.com_
 ## 下载：
 点击右边的Releases即可下载→→→→
 
