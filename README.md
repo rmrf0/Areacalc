@@ -2,9 +2,6 @@
 使用Qt6.8.1开发
 
 IDE:Qt Creator 15.0.0
-
-目前只支持windows，windows10测试可用，其他未知
-
 ## 兼容性
 ### Windows
 |   系统名称   |   能否运行   |
